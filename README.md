@@ -1,2 +1,2 @@
 # GYM-Webpage
-A simple webpage for begineers that shows navigation bar with some styling tags 
+A simple webpage for beginners that shows navigation bar with some styling tags 
